@@ -12,12 +12,17 @@ Catalog Fields
 --------------
 trying again
 
-============  ===========
-Element       Definition
-============  ============
-Version       The current version number for the data collection.
-Study         It's a title--for a study!
-============  ============
++------------------+--------------------------------------------------------------------------------------------+
+| Element          | Definition                                                                                 |
++==================+============================================================================================+
+| Version          | The current version number for the data collection.                                        |
++------------------+--------------------------------------------------------------------------------------------+
+| Study Title      | The title of the study.                                                                    |
++------------------+--------------------------------------------------------------------------------------------+
+| Alternate Titles | The name by which a data collection may be commonly referred to, or as provided by the PI. |
++------------------+--------------------------------------------------------------------------------------------+
+
+
 
 .. toctree::
    :maxdepth: 2
