@@ -6,7 +6,7 @@
 M&P test metadata documentation
 ====================================
 
-Welcome to our test metadata documentation; blah blah. Be sure to check out :ref:`_version`
+Welcome to our test metadata documentation; blah blah. 
 
 Catalog Fields
 **************
@@ -14,7 +14,7 @@ Catalog Fields
 +------------------+-------------------------------------------------------+
 | Element          | Definition                                            |
 +==================+=======================================================+
-| :ref:`_version`  | The current version number for the data collection.   |
+| :ref:`Version`  | The current version number for the data collection.   |
 +------------------+-------------------------------------------------------+
 | Study Title      | The title of the study.                               |
 +------------------+-------------------------------------------------------+
@@ -25,10 +25,6 @@ Catalog Fields
 Usage
 *****
 
-.. _version:
-
-Version
--------
 .. list-table:: Version
    :widths: 25 25 50
    :header-rows: 1
