@@ -38,7 +38,7 @@ Usage
      - Row 1, column 3
    * - Row 2, column 1
      - Row 2, column 2
-     - Row 2, column 3
+     - Versioning begins when a data collection is first archived. Each subsequent update of the data increments the version number by 1. Changes and additions to the data, to the technical documentation, and to the collection as whole (such as adding setup files) trigger a version change. Metadata patches will not get a version change. The Version field is used as the source of the version identifier for the Citation field. Each version also receives a unique DOI (unversioned DOIs redirect to the current version).
 
 
 
