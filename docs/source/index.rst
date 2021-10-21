@@ -3,18 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to RTD-test's documentation!
+M&P test metadata documentation
 ====================================
+
+Welcome to our test metadata documentation; blah blah Bibliographic
+
+Catalog Fields
+--------------
+
+========     ===========
+Element      Definition
+=========    ============
+Version      The current version number for the data collection.
+Study title  It's a title--for a study!
+==========   ============
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
