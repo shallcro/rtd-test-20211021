@@ -24,7 +24,7 @@ Catalog Fields
 
 Usage
 *****
-.. _version
+.. _version:
 Version
 -------
 .. list-table:: Version
