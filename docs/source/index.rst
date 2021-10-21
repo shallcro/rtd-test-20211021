@@ -26,6 +26,7 @@ Usage
 *****
 
 .. _version:
+
 Version
 -------
 .. list-table:: Version
