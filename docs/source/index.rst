@@ -14,7 +14,7 @@ Catalog Fields
 +------------------+-------------------------------------------------------+
 | Element          | Definition                                            |
 +==================+=======================================================+
-| Version          | The current version number for the data collection.   |
+| :ref:`_version`  | The current version number for the data collection.   |
 +------------------+-------------------------------------------------------+
 | Study Title      | The title of the study.                               |
 +------------------+-------------------------------------------------------+
@@ -24,9 +24,10 @@ Catalog Fields
 
 Usage
 *****
-
 .. _version
-.. list-table:: Title
+Version
+-------
+.. list-table:: Version
    :widths: 25 25 50
    :header-rows: 1
 
