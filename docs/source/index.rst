@@ -14,7 +14,7 @@ Catalog Fields
 +------------------+-------------------------------------------------------+
 | Element          | Definition                                            |
 +==================+=======================================================+
-| :ref:`version`  | The current version number for the data collection.   |
+| :ref:`Version <_version>`  | The current version number for the data collection.   |
 +------------------+-------------------------------------------------------+
 | Study Title      | The title of the study.                               |
 +------------------+-------------------------------------------------------+
