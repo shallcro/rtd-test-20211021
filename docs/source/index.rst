@@ -6,7 +6,7 @@
 M&P test metadata documentation
 ====================================
 
-Welcome to our test metadata documentation; blah blah
+Welcome to our test metadata documentation; blah blah. Be sure to check out :ref:`_version`
 
 Catalog Fields
 **************
