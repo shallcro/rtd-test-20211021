@@ -15,7 +15,7 @@ Catalog Fields
 Element       Definition
 ============  ============
 Version       The current version number for the data collection.
-Study title   It's a title--for a study!
+Study         It's a title--for a study!
 ============  ============
 
 .. toctree::
