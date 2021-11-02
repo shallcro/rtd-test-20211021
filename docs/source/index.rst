@@ -3,7 +3,8 @@ PART 1--testing
 ###########
 
 .. _testlink:
-Just some text...
+
+Just some text... I wish I could link to this!
 
 ******
 Ch. 2
@@ -34,7 +35,7 @@ Subsubsection
 and now a little table...
 
 .. csv-table:: Test1
-   :file: test-table.csv
+   :file: "./test-table.csv"
    :widths: 30, 70
 
 blah
@@ -43,6 +44,8 @@ Bibliographic
 
 blah
 
-And now let's go to the top :ref:`Test link <testlink>`
+And now let's go to the top :ref:`testlink`
 
 Or we could try to go to :ref:`Ch. 2`
+
+And finally, I will try to go to :doc:`index-old`
