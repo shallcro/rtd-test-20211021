@@ -12,7 +12,7 @@ Ch. 2
 Section test
 =============
 
-Just some **bold** text. Jump to :ref:'mylist'
+Just some **bold** text. Jump to :ref:`mylist`
 
 Subsection test
 ---------------
@@ -37,10 +37,12 @@ and now a little table...
    :file: test-table.csv
    :widths: 30, 70
 
-blah 
+blah
 Bibliographic
 
 
 blah
 
 And now let's go to the top :ref:`Test link <testlink>`
+
+Or we could try to go to :ref:`Ch. 2`
