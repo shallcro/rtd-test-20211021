@@ -35,7 +35,7 @@ Subsubsection
 and now a little table...
 
 .. csv-table:: Test1
-   :file: "./test-table.csv"
+   :file: "test-table.csv"
    :widths: 30, 70
 
 blah
@@ -49,3 +49,10 @@ And now let's go to the top :ref:`testlink`
 Or we could try to go to :ref:`Ch. 2`
 
 And finally, I will try to go to :doc:`index-old`
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   index
+   index-old
