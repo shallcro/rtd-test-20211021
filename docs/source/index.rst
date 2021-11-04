@@ -35,7 +35,7 @@ Subsubsection
 and now a little table...
 
 .. csv-table:: Test1
-   :file: "./test_table.csv"
+   :file: "test_table.csv"
    :widths: 30, 70
 
 blah
