@@ -15,31 +15,31 @@ Metadata Definitions
 
 Version
 =======
-.. csv-table:: Version_element
+.. csv-table::
    :file: version.csv
    :widths: 30, 70
 
 Study Title
 ===========
-.. csv-table:: Study_title_element
+.. csv-table::
    :file: study_title.csv
    :widths: 30, 70
 
 Alternate Titles
 ================
-.. csv-table:: Alt_title_element
+.. csv-table::
    :file: alternate_titles.csv
    :widths: 30, 70
 
-Principal Investigators
-=======================
-.. csv-table:: PI_element
+Principal Investigators (PIs)
+=============================
+.. csv-table::
    :file: principal_investigators.csv
    :widths: 30, 70
 
 Distributors
 ============
-.. csv-table:: Distributors_element
+.. csv-table::
    :file: distributors.csv
    :widths: 30, 70
 
@@ -129,7 +129,7 @@ Classifications
 
 Filesets
 ============
-   
+
 
 
 .. toctree::
