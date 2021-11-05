@@ -9,6 +9,7 @@ Metadata Elements
 .. csv-table:: Overview
    :file: element_definitions.csv
    :widths: 30, 70
+   :header-rows: 1
 
 Metadata Definitions
 ********************
