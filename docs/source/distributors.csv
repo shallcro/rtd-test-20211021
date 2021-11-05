@@ -1,0 +1,6 @@
+Description,The institution(s) responsible for generating/disseminating copies of the resource in either electronic or print form.
+Cardinality,"1,n"
+Required,Yes
+Accepted Values,String
+Usage Notes,"Each organization has a Place and a Name. Because ICPSR itself is so frequently a distributor, the full name and location of ICPSR is easily accessible via a button in the metadata editor. The list of distributors is provided in the dynamically assembled Citation."
+Example,

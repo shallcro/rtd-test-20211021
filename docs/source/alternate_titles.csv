@@ -1,0 +1,6 @@
+Description,"AlternateThe name(s) by which a data collection may be commonly referred to, or as provided by the PI."
+Cardinality,"0,n"
+Required,No
+Accepted Values,String
+Usage Notes,Often takes the form of a shortened (by abbreviation or acronym) version of the official title. Any PI provided-title that is far outside the ICPSR standards is appropriate in this field.
+Example,

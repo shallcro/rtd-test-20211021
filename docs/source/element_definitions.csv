@@ -1,0 +1,35 @@
+Element,Definition
+:ref:`Version`,The current version number for the data collection.
+:ref:`Study Title`,The title of the study.
+:ref:`Alternate Titles`,"The name by which a data collection may be commonly referred to, or as provided by the PI."
+:ref:`Principal Investigators (PIs)`,The list of Principal Investigators (PIs) / authoring entities for the study.
+:ref:`Distributors`,"The institution tasked with responsibility to generate/disseminate copies of the resource in either electronic or print form. (Typically, ICPSR.)"
+:ref:`Citation`,The established bibliographic reference for the data collection.
+:ref:`Funding Agencies`,"The name of the organization(s) that supported the production and/or archiving of these data, along with associated Grant Number(s)."
+:ref:`External Source ID`,A string that allows us to associate the study with a unique identifier supplied by the Depositor. Only used in some NACJD studies.
+:ref:`Summary`,"A full description or abstract of the study's subject matter or intellectual content. The main goal of the summary is to give the user a clear sense of what the study is about, including the purpose of the study, the major topics covered, and what questions the PIs attempted to answer when they conducted the study. Note that summaries typically avoid attempting to address issues of how the data might be used, who might be interested in the data, or any evaluative comments about the worth or usefulness of the study."
+:ref:`Link Title/Link URL`,"For Union Catalog entries, the name and URL for the external resource the Union Catalog entry points to. For curated studies, this field must be left blank."
+:ref:`Subject Terms`,A controlled list of Subject Terms are used to indicate what a study is about and to summarize its content. The subject terms serve to increase the study's discoverability by topic. Subject Terms follow the ICPSR Subject Terms Thesaurus and the Library of Congress Subject Terms when creating new subject terms.
+:ref:`Geographic Coverage Areas`,The geographic area(s) covered in the data collection. Geographic Coverage follows the ICPSR Geographic Names Thesaurus and the Getty Thesaurus of Geographic Names when adding new geographic names.
+:ref:`Study Time Periods and Time Frames`,"The time period(s) to which the data refer. This field uses the ISO 8601 date format. The time frames section can be used for a free text description of the time period or time period ranges. (ex. 'Fall 2012' ' First Quarter', or '1980's), or for clarification in studies with multiple time periods (ex. ‘Wave 1’, ‘Student Data’)."
+:ref:`Collection Dates and Time Frames`,"The date(s) when the data were physically collected. This field uses the ISO 8601 date format. The time frames section can be used for a free text description of the time period or time period ranges. (ex. 'Fall 2012' ' First Quarter', or '1980's), or for clarification in studies with multiple time periods (ex. ‘Wave 1’, ‘Student Data’)."
+:ref:`Universe`,The group of persons or other elements that are the object of the study and to which the study results refer.
+:ref:`Data Type`,Information describing the type of data included in the file.
+:ref:`Collection Notes`,"A description of technical details and other characteristics of the data collection (such as unique authoring, dissemination, or processing information) that cannot be recorded in the other metadata fields but constitute important information for the user."
+:ref:`Purpose of the Study`,"The concept of the study in brief, including research questions or a simple statement of the study’s goals."
+:ref:`Study Design`,Describes the procedures the researchers used to contact subjects and/or to collect the data.
+:ref:`Description of Variables`,"Significant variables that are present in the data files distributed for public release, particularly demographic variables."
+:ref:`Sampling`,"The methods used to select the cases that appear in the study (ex., simple, systematic, stratified)."
+:ref:`Time Method`,The time dimension of the data collection.
+:ref:`Data Source`,"The source(s) of the data collection, when that source is external to the data collection and is independently citable."
+:ref:`Collection Mode`,"The procedure, technique, or mode of inquiry used to attain the data."
+:ref:`Extent of Processing`,Describes optional processing activities and checks performed on data collections by ICPSR Curation staff.
+:ref:`Weight`,A description of the criteria for using weights in the analysis of a data collection.
+:ref:`Response Rates`,The percentage of respondents in the sample who participated in the study.
+:ref:`Scales`,"Any commonly known scales used to collect data for the study (ex., psychological scales such as MMPI and CPI, or occupational scales such as the Census Occupational Codes)."
+:ref:`Units of Observation`,The entity being analyzed in the study or in the variable.
+:ref:`Geographic Unit`,The smallest geographic unit represented in the data that can be analyzed.
+:ref:`Restrictions`,Information regarding any limitations on use or restrictions on access to the file.
+:ref:`Series`,"If applicable, the ICPSR series the study belongs to. Series are arranged by their ability or intended purpose to be analyzed together."
+:ref:`Classifications`,"The broad subject a study is related to within the ICPSR catalog, as well as its own archive."
+:ref:`Filesets`,The name of each dataset within a study.

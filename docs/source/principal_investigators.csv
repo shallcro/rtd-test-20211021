@@ -1,0 +1,12 @@
+Description,"The list of Principal Investigators (PIs) / authorsauthoring entities for the study. A PI can be a person, an organization, or a person along with their affiliated organization or institution. Each study requires at least one PI."
+Cardinality,"1,n"
+Required,Yes
+Accepted Values,String
+Usage Notes,"For entering names of people: The First name can include any middle names or initials; the Last name can include any suffixes (such as ""II"" or ""Jr.""). Do not place a space between first and middle initials. Example: for PI A. B. Smith, enter the First name as ""A.B."" rather than ""A. B."". Do not abbreviate, except ""Sr."" and ""Jr."".
+
+For entering names of organizations as affiliations: If the list of PIs includes multiple people affiliated with the same organization, repeat that organization for each person.
+
+For organizational PIs, the higher level of an organization should be listed before the lower level, and levels should be separated by a period in this field.
+Do not abbreviate, except ""Inc."" and ""Co."". In particular, governmental PI's must be spelled out completely, e.g., United States Department of Commerce (NOT ""U.S. Dept."")
+Do not include ""The"" at the start of an organization name unless it is actually part of the official name. USE: The New York Times. DO NOT USE: The National Institute of Justice."
+Example,
