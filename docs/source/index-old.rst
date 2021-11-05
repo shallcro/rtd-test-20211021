@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-M&P test metadata documentation
+Part 2 - More Testing
 ====================================
 
 Welcome to our test metadata documentation; blah blah.
@@ -14,7 +14,7 @@ Catalog Fields
 +------------------+-------------------------------------------------------+
 | Element          | Definition                                            |
 +==================+=======================================================+
-| Version          | The current version number for the data collection.   |
+| :ref:`Version`          | The current version number for the data collection.   |
 +------------------+-------------------------------------------------------+
 | Study Title      | The title of the study.                               |
 +------------------+-------------------------------------------------------+
@@ -31,8 +31,9 @@ Usage
    :file: test-table.csv
    :widths: 30, 70
 
-.. _version:
-.. list-table:: Version
+Version
+*******
+.. list-table:: Version_field
    :widths: 25 25 50
    :header-rows: 1
 
