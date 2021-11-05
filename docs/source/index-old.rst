@@ -22,7 +22,6 @@ Element
 
 Version
 *******
-
 .. csv-table:: Test1
    :file: test-table.csv
    :widths: 30, 70
