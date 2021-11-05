@@ -1,10 +1,6 @@
-.. RTD-test documentation master file, created by
-   sphinx-quickstart on Thu Oct 21 09:47:36 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
+#####################
 Part 2 - More Testing
-====================================
+#####################
 
 Welcome to our test metadata documentation; blah blah.
 
@@ -14,7 +10,7 @@ Catalog Fields
 +------------------+-------------------------------------------------------+
 | Element          | Definition                                            |
 +==================+=======================================================+
-| :ref:`Version`          | The current version number for the data collection.   |
+| :ref:`Version`   | The current version number for the data collection.   |
 +------------------+-------------------------------------------------------+
 | Study Title      | The title of the study.                               |
 +------------------+-------------------------------------------------------+
@@ -24,25 +20,25 @@ Catalog Fields
 
 Element
 
-Usage
-*****
+Version
+*******
 
 .. csv-table:: Test1
    :file: test-table.csv
    :widths: 30, 70
 
-Version
-*******
-.. list-table:: Version_field
-   :widths: 25 25 50
-   :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 1, column 1
-     -
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
+.. list-table:: Version_field
+
+   * - Description
+     - The current version number for the data collection.
+   * - Repeatable?
+     - No
+   * - Required?
+     - Yes
+   * - Accepted values
+     - Numeric
+   * - Usage Notes
      - Versioning begins when a data collection is first archived. Each subsequent update of the data increments the version number by 1. Changes and additions to the data, to the technical documentation, and to the collection as whole (such as adding setup files) trigger a version change. Metadata patches will not get a version change. The Version field is used as the source of the version identifier for the Citation field. Each version also receives a unique DOI (unversioned DOIs redirect to the current version).
+   * - example
+     - 1
