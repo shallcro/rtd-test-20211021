@@ -1,4 +1,4 @@
-Description,The geographic area(s) covered in the data collection. Geographic Coverage follows the `ICPSR Geographic Names Thesaurus <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10003>` and the `Getty Thesaurus of Geographic Names <http://www.getty.edu/research/tools/vocabularies/tgn/index.html>`when adding new geographic names.
+Description,The geographic area(s) covered in the data collection. Geographic Coverage follows the `ICPSR Geographic Names Thesaurus <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10003>`_ and the `Getty Thesaurus of Geographic Names <http://www.getty.edu/research/tools/vocabularies/tgn/index.html>`_ when adding new geographic names.
 Cardinality,"0,n"
 Required,No
 Accepted Values,String

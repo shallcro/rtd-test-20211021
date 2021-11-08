@@ -1,4 +1,4 @@
-Description,"The time period(s) to which the data refer. This field uses the `ISO 8601 <https://www.iso.org/iso-8601-date-and-time-format.html>` date format. The time frames section can be used for a free text description of the time period or time period ranges. (ex. 'Fall 2012' ' First Quarter', or '1980's), or for clarification in studies with multiple time periods (ex. ‘Wave 1’, ‘Student Data’)."
+Description,"The time period(s) to which the data refer. This field uses the `ISO 8601 <https://www.iso.org/iso-8601-date-and-time-format.html>`_ date format. The time frames section can be used for a free text description of the time period or time period ranges. (ex. 'Fall 2012' ' First Quarter', or '1980's), or for clarification in studies with multiple time periods (ex. ‘Wave 1’, ‘Student Data’)."
 Cardinality,"0,n"
 Required,No
 Accepted Values,Numeric; String
