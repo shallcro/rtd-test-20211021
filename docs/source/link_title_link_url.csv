@@ -1,0 +1,6 @@
+Description,"TFor Union Catalog entries, the name and URL for the external resource referred to bythe Union Catalog entriesy points to. For curated studies, this field must be left blank."
+Cardinality,"0,1"
+Required,"Required for Union Catalog Entries, not applicable to curated studies."
+Accepted Values,String
+Usage Notes,"When possible, the Link URL should be a DOI. The Link Title can be provided by the Union Catalog requestor, or can simply be the title of the page"
+Example,

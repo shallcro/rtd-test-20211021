@@ -1,0 +1,6 @@
+Description,Information describing the type of data included in the file.
+Cardinality,"0,n"
+Required,No
+Accepted Values,This field has a controlled vocabulary.
+Usage Notes,
+Example,

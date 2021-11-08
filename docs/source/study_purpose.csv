@@ -1,0 +1,6 @@
+Description,"The concept of the study in brief, including research questions or a simple statement of the study’s goals."
+Cardinality,"0,1"
+Required,No
+Accepted Values,String
+Usage Notes,"Purpose of the Study should provide a succinct description of the reasons the study was undertaken. It should be relatively brief, giving the user a very high level overview of the study purpose. If the investigator provided the ICPSR with research questions, it is appropriate to include them here. Much like the Summary field, it should be in third person and should avoid editorializing on study outcomes."
+Example,

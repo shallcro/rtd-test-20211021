@@ -1,0 +1,14 @@
+Description,"The date(s) when the data were physically collected. This field uses the `ISO 8601 <https://www.iso.org/iso-8601-date-and-time-format.html>`date format. The time frames section can be used for a free text description of the time period or time period ranges. (ex. 'Fall 2012' ' First Quarter', or '1980's), or for clarification in studies with multiple time periods (ex. ‘Wave 1’, ‘Student Data’)."
+Cardinality,"0,n"
+Required,No
+Accepted Values,Numeric; String
+Usage Notes,"In the Collection Date(s) field you can enter a date or range of dates. The collection dates should be focused on the dates the data was collected, regardless what dates the data is actually about.
+
+Curators can list a year (YYYY), a year plus a month (YYYY-MM), or a year, month, and day (YYYY-MM-DD). Curators can list a range of years (YYYY--YYYY), a range of months (YYYY-MM--YYYY-MM), or a range of days (YYYY-MM-DD--YYYY-MM-DD).
+
+There should be one hyphen between parts of a date, and two hyphens separating two dates. There should not be spaces at all.
+
+When the study is inclusive of a whole month or whole year, the date does not need to be written out as a range.
+
+Time frames should not be used if the date can be expressed exclusively through numbers, and should only be used to add context or for date ranges that cannot be represented in numbers, such as seasons or other units of time where the data producer did not clarify the exact dates they meant."
+Example,

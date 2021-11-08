@@ -1,0 +1,6 @@
+Description,A string that allows us to associate the study with a unique identifier supplied by the Depositor. Only used in some NACJD studies.
+Cardinality,"0,1"
+Required,No
+Accepted Values,String
+Usage Notes,"The external source ID will always be provided by the depositor. If not provided, it is reasonable to assume the study does not have one."
+Example,

@@ -1,0 +1,8 @@
+Description,The geographic area(s) covered in the data collection. Geographic Coverage follows the `ICPSR Geographic Names Thesaurus <https://www.icpsr.umich.edu/web/ICPSR/thesaurus/10003>` and the `Getty Thesaurus of Geographic Names <http://www.getty.edu/research/tools/vocabularies/tgn/index.html>`when adding new geographic names.
+Cardinality,"0,n"
+Required,No
+Accepted Values,String
+Usage Notes,"All relevant geographic terms should be included, with their full hierarchies represented. If a U.S. city is listed, so should it’s state and “United States”. Non-U.S. cities should also have their countries added.
+
+The metadata editor will automatically put this field in alphabetical order, regardless of hierarchy."
+Example,

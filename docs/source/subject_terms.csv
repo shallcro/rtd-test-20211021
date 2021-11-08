@@ -1,0 +1,10 @@
+Description,A controlled list of Subject Terms are used to indicate what a study is about and to summarize its content. The subject terms serve to increase the study's discoverability by topic. Subject Terms follow the ICPSR Subject Terms Thesaurus and the Library of Congress Subject Terms when creating new subject terms.
+Cardinality,"0,n"
+Required,Yes
+Accepted Values,String
+Usage Notes,"ICPSR recommends that there should be between 5 and 10 subject terms, with 15 as a maximum.
+
+Subject terms are validated against the ICPSR thesaurus, and this field does have a dropdown menu.
+
+Non-thesaurus terms are not necessarily forbidden. If a curator submits a non-thesaurus term, the metadata librarian will gauge the necessity of this term, check it against the Library of Congress Subject Headings to see if a different related term should be used, and consider it for addition to the ICPSR thesaurus."
+Example,

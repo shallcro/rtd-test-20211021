@@ -98,7 +98,7 @@ def setup(app):
     app.add_css_file('custom.css')
 
 # html_context = {
-#     'css_files': ['css/custom.css', 'theme.css'],
+#     'css_files': ['custom.css', 'css/theme.css']
 # }
 
 # Custom sidebar templates, must be a dictionary that maps document names

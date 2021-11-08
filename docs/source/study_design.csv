@@ -1,0 +1,6 @@
+Description,Describes the procedures the researchers used to contact subjects and/or to collect the data.
+Cardinality,"0,1"
+Required,No
+Accepted Values,String
+Usage Notes,
+Example,

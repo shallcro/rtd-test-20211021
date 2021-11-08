@@ -1,0 +1,12 @@
+Description,"A full description or abstract of the study's subject matter or intellectual content. The main goal of the summary is to give the user a clear sense of what the study is about, including the purpose of the study, the major topics covered, and what questions the PIs attempted to answer when they conducted the study. Note that summaries typically avoid attempting to address issues of how the data might be used, who might be interested in the data, or any evaluative comments about the worth or usefulness of the study."
+Cardinality,"1, 1"
+Required,Yes
+Accepted Values,String
+Usage Notes,"This field is an abstract of the data collection. This field should contain a full description of the study’s subject matter or intellectual content. The focus should be on questions such as the purpose of the study, the major topics covered, and what questions the PIs attempted to answer when they conducted the study. There is no length limit to the summary, and it is appropriate here to be inclusive of any information that the curator thinks is relevant for users to understand the main points of the study.
+
+Note that curators should avoid attempting to address issues of how the data might be used, who might be interested in the data, or any evaluative comments about the worth or usefulness of the study. Statements about conclusions the investigators drew from the data should be omitted. The main goal should be to give the reader a clear sense of what the study is about.
+
+This field should always be in third person. If using text provided by the PI’s, replace “I” or “we” with “the investigator(s)”. 
+
+Use past tense when describing the process of collecting the data. Use present tense when necessary, such as when you are describing the data: “The MIDUS Refresher collection is split into two datasets.”"
+Example,
