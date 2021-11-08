@@ -94,6 +94,13 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+def setup(app):
+    app.add_css_file('custom.css')
+
+# html_context = {
+#     'css_files': ['css/custom.css', 'theme.css'],
+# }
+
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #

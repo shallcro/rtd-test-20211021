@@ -1,0 +1,6 @@
+Description,The established bibliographic reference for the data collection.
+Cardinality,"1,1"
+Required,Yes
+Accepted Values,String
+Usage Notes,The Citation is dynamically assembled from other entry fields. The curator never needs to create or modify the citation.
+Example,

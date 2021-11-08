@@ -1,0 +1,14 @@
+Description,"The name(s) of the organization(s) that supported the production and/or archiving of these data, along with associated Grant Number(s)."
+Cardinality,"0,n"
+Required,No
+Accepted Values,String
+Usage Notes,"Agency Name: Agency names are checked against the ICPSR thesaurus, and this field provides a drop-down menu for curator ease. Funding agencies that are not in the ICPSR thesaurus should be checked against VIAF. When the ICPSR thesaurus conflicts with VIAF, default to the ICPSR thesaurus.
+
+For multi-level sponsoring or funding agencies, up to three levels are allowed. List them in order of highest (or largest) level first followed by a period, then next highest level followed by a period, and if needed a third level.
+
+Generally speaking, if a grant number is not provided, the PI’s home institution does not need to be listed as a funding agency. If the PI provides a grant number or other award information, it may be appropriate to. 
+
+Grant Number(s): If multiple grants from the same funding agency were awarded to support the study, list them within the same Grant Number field separated by a comma. Replace any internal blanks in the Grant Number with hyphens.
+
+Purpose: You may check either, both, or none of the listed options."
+Example,
